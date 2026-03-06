@@ -428,7 +428,7 @@ function App() {
                 href="mailto:mulaygaurav04@gmail.com"
                 className="text-white/80 font-light hover:text-white transition-colors"
               >
-                mulaygaurav04@gmail.com
+                 mulaygaurav04@gmail.com
               </a>
             </div>
           </div>
